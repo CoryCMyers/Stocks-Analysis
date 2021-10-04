@@ -22,8 +22,11 @@ However, when further information is provided and the results for the year of 20
 
 When we consult the information from the analysis of the 2018 stock ticker history the situation seems to be entirely different. From all of the stocks that were covered as profitable in the previous year only one of them is still profitable in the most recent data set provided. While this stock did increase exponentially in value over the course of the year, the other stock that remained profitable also took a loss from the previous year while the remained all took a sharp decline.
 
+### Conclusions
 
-### Execution Times Comparisons
+Without access to further years of information to show any sort of trend to see if there is an ebb and flow to these tickers to determine if the current downturn is a normal part of the stocks price cycle, making it a good time to invest none of these tickers have shown to be educated choices for investment at the time of this analysis.
+
+## Execution Times Comparisons
 
 #### 2017
 
