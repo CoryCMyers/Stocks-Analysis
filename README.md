@@ -10,9 +10,9 @@ Repository for the Stocks Analysis Project
 ## Overview of Results
 
 #### 2017
-When looking at the results of the 2017 Data it can be seen that overall for the year the stocks selected to be followed for this exercise had an overall positive trend overall. From the information that you provided for the basic creation of the spreadsheet these stocks would seem to be a solid choice of investment with only one TERP showing a neagative return for the year as we see here [2017 Stocks Analysis Results](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/VBA_Challenge_2017.png). 
+When looking at the results of the 2017 Data it can be seen that overall for the year the stocks selected to be followed for this exercise had an overall positive trend overall. From the information that you provided for the basic creation of the spreadsheet these stocks would seem to be a solid choice of investment with only one TERP showing a neagative return for the year as we see here. 
 
-![2017 Stocks Analysis Results](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/VBA_Challenge_2017.png) 
+[2017 Stocks Analysis Results](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/VBA_Challenge_2017.png) ![2017 Stocks Analysis Results](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/VBA_Challenge_2017.png) 
 
 #### 2018
 
