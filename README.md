@@ -34,13 +34,15 @@ The runtime for the original and refactored Macros can be found below.
 
 'Formatting found at [Stack Overflow](https://stackoverflow.com/questions/24319505/how-can-one-display-images-side-by-side-in-a-github-readme-md)
 
-2017                       |  2018
+2017 Original | 2017 Refactored 
 :-------------------------:|:-------------------------:
 ![2017 Runtime Original](https://github.com/CoryCMyers/Stocks-Analysis/blob/CoryCMyers-patch-1-workingOnReadme/2017Base.PNG)  |  ![2017 Runtime Refactored](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/VBA_Challenge_2017.png)
 
 #### 2018
 
-
+2018 Original             |  2018 Refactored
+:-------------------------:|:-------------------------:
+![2018 Runtime Original](https://github.com/CoryCMyers/Stocks-Analysis/blob/CoryCMyers-patch-1-workingOnReadme/2018Base.PNG)  |  ![2018 Runtime Refactored](https://github.com/CoryCMyers/Stocks-Analysis/blob/CoryCMyers-patch-1-workingOnReadme/VBA_Challenge_2018.png)
 
 #Summary
 
