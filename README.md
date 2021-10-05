@@ -56,14 +56,18 @@ Original Code | Refactored Code
 
 ## <div align = "center">Refactored Code Pro/Con</div>
 
-Refactored Code Pro       |  Refactored Code Con
-:-------------------------:|:-------------------------:
+Refactored Code Pro       | 
+:-------------------------:
 
 - Able to begin from a shared startpoint if working as a group
 - Code that has proven functional can be used as a control when testing functionality
 - Refactoring code you wrote previously reinforces conceptual connections
 - Refactoring your previous code in GitHub shows a performance standard
-- Allows for code refinement to enhance code performance | 
+- Allows for code refinement to enhance code performance
+
+Refactored Code Con       |
+:-------------------------:
+
 - Working from anothers code does not teach foundational concepts
 - Working from anothers code does not teach creativity
 
