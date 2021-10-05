@@ -36,7 +36,7 @@ The runtime for the original and refactored Macros can be found below.
 
 2017                       |  2018
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![2017 Runtime Original](https://github.com/CoryCMyers/Stocks-Analysis/blob/CoryCMyers-patch-1-workingOnReadme/2017Base.PNG)  |  ![2017 Runtime Refactored](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/VBA_Challenge_2017.png)
 
 #### 2018
 
