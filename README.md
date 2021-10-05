@@ -27,7 +27,7 @@ When we consult the information from the analysis of the 2018 stock ticker histo
 
 Without access to further years of information to show any sort of trend to see if there is an ebb and flow to these tickers to determine if the current downturn is a normal part of the stocks price cycle, making it a good time to invest none of these tickers have shown to be educated choices for investment at the time of this analysis.
 
-## <div align = "center">Runtime Comparisions</div>
+## <div align = "center">Runtime Comparisons</div>
 
 #### <div align = "center">2017</div>
 
@@ -45,7 +45,7 @@ The runtime for the original and refactored Macros can be found below.
 :-------------------------:|:-------------------------:
 ![2018 Runtime Original](https://github.com/CoryCMyers/Stocks-Analysis/blob/CoryCMyers-patch-1-workingOnReadme/2018Base.PNG)  |  ![2018 Runtime Refactored](https://github.com/CoryCMyers/Stocks-Analysis/blob/CoryCMyers-patch-1-workingOnReadme/VBA_Challenge_2018.png)
 
-#### Code Comparisions
+#### <div align = "center">Code Comparisons</div>
 
 Original Code | Refactored Code 
 :-------------------------:|:-------------------------:
