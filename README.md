@@ -30,9 +30,20 @@ Without access to further years of information to show any sort of trend to see 
 
 #### 2017
 
+The runtime for the original and refactored Macros can be found below.
+
+'Formatting found at [Stack Overflow](https://stackoverflow.com/questions/24319505/how-can-one-display-images-side-by-side-in-a-github-readme-md)
+
+2017                       |  2018
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
 #### 2018
 
+
+
 #Summary
+
 
 
 ##Refactored Code Pro/Con
