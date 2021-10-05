@@ -73,6 +73,7 @@ If Cells(iteratorNumber - 1, columnNumber).Value <> tickers(tickerIndex) Then
 
 ```
 
+This way of writing however instead of refrencing specific cells that have to be sequentially checked and then stopping to check the value of another cell it instead uses values already stored in variables from previously in the function. This allows the function to run faster as it reduces the overall number of calculations that need to be run on each iteration.
 
 # <div align = "center">Summary</div>
 
