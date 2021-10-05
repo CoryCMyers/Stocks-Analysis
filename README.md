@@ -51,6 +51,26 @@ Original Code | Refactored Code
 :-------------------------:|:-------------------------:
 ![Original Code](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/Analysis_Code_Original.PNG)  | ![Refactored Code](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/Analysis_Code_Refactored.PNG)
 
+The primary change between these two codes, and the difference in their runtimes can be traced to the change in code from using
+
+```
+
+'When the code is written like this, then each time this code loop is run it must verify both cells being referenced for each value each loop.
+  If Cells(iteratorNumber - 1, columnNumber).Value <> ticker And Cells(iteratorNumber, columnNumber).Value = ticker Then
+    startingPrice = Cells(iteratorNumber, columnNumber).Value
+
+```
+
+However, when the code has been refactored to run more effeciently that same code looks like this
+
+```
+
+
+If Cells(iteratorNumber - 1, columnNumber).Value <> tickers(tickerIndex) Then
+  tickerStartingPrices(tickerIndex) = Cells(iteratorNumber, columnNumber).Value
+
+```
+
 
 # <div align = "center">Summary</div>
 
