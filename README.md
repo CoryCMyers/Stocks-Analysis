@@ -35,13 +35,13 @@ The runtime for the original and refactored Macros can be found below.[^1]
 
 2017 Original | 2017 Refactored 
 :-------------------------:|:-------------------------:
-![2017 Runtime Original](https://github.com/CoryCMyers/Stocks-Analysis/blob/CoryCMyers-patch-1-workingOnReadme/2017Base.PNG)  |  ![2017 Runtime Refactored](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/VBA_Challenge_2017.png)
+![2017 Runtime Original](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/Analysis_Code_Original.PNG)  |  ![2017 Runtime Refactored](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/VBA_Challenge_2017.png)
 
 #### <div align = "center">2018</div>
 
 2018 Original             |  2018 Refactored
 :-------------------------:|:-------------------------:
-![2018 Runtime Original](https://github.com/CoryCMyers/Stocks-Analysis/blob/CoryCMyers-patch-1-workingOnReadme/2018Base.PNG)  |  ![2018 Runtime Refactored](https://github.com/CoryCMyers/Stocks-Analysis/blob/CoryCMyers-patch-1-workingOnReadme/VBA_Challenge_2018.png)
+![2018 Runtime Original](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/Analysis_Code_Refactored.PNG)  |  ![2018 Runtime Refactored](https://github.com/CoryCMyers/Stocks-Analysis/blob/CoryCMyers-patch-1-workingOnReadme/VBA_Challenge_2018.png)
 
 #### <div align = "center">Code Comparisons</div>
 
