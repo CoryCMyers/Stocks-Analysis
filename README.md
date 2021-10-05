@@ -98,5 +98,6 @@ Refactored Code Con       |
   
   
 
+
 ##### <div align = "center"> Footnotes </div>
 [^1]: Formatting for side by side found at [Stack Overflow](https://stackoverflow.com/questions/24319505/how-can-one-display-images-side-by-side-in-a-github-readme-md)
