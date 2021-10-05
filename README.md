@@ -96,7 +96,10 @@ Refactored Code Con       |
 
 ### <div align = "center">How do these apply to the Code?</div>
   
-  
+When looking at the ways that the specific code examples seen here there are advantages to both of them. For the original writing of the code then the information was laid out clearly. There was no requirement of understanding for how the different arrays functioned and the iteration loops were simple and sequential. Additionally in the original code there was no understanding of how a function will hold a variable and then the availability of that information to be used for additional purposes.
+This allows the original code to be written very simply and like it is being driven from point A to point B with a minimum of understanding needed of just how complicated the function can begin to be.
+
+When you look at the refactored code however the overall code is less bulky, and has a cleaner flow to it allowing it to run more swiftly. However to be able to write and understand code that uses this style rather than the original style requires an understanding of the fact that you can use previously established variables in new ways to temporarily hold additional information. Doing things in this manner does not require as many values to be initialized by the code but requires an understanding of how and why it does to be able to be used and written.
 
 
 ##### <div align = "center"> Footnotes </div>
