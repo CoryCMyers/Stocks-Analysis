@@ -77,8 +77,8 @@ This way of writing however instead of refrencing specific cells that have to be
 
 ## <div align = "center">Refactored Code Pro/Con</div>
 
-Refactored Code Pro       | 
-:-------------------------:
+<Div align = "center">Refactored Code Pro       | 
+:-------------------------:</div>
 
 - Able to begin from a shared startpoint if working as a group
 - Code that has proven functional can be used as a control when testing functionality
@@ -91,6 +91,9 @@ Refactored Code Con       |
 
 - Working from anothers code does not teach foundational concepts
 - Working from anothers code does not teach creativity
+- Can take longer to understand if code is refactored at a higher conceptual level than the original writers
+- Variables can be unintentionally broken much easier
+- Can add additional time to submission if variables are missed causing extra read throughs of the code
 
 ### <div align = "center">How do these apply to the Code?</div>
   
