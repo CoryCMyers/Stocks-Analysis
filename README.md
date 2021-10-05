@@ -1,4 +1,5 @@
-# Stocks-Analysis
+# <div align="center">Stocks-Analysis</div>
+
 Repository for the Stocks Analysis Project 
 
 # Analysis Summary
