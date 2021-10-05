@@ -102,5 +102,6 @@ This allows the original code to be written very simply and like it is being dri
 When you look at the refactored code however the overall code is less bulky, and has a cleaner flow to it allowing it to run more swiftly. However to be able to write and understand code that uses this style rather than the original style requires an understanding of the fact that you can use previously established variables in new ways to temporarily hold additional information. Doing things in this manner does not require as many values to be initialized by the code but requires an understanding of how and why it does to be able to be used and written.
 
 
+
 ##### <div align = "center"> Footnotes </div>
 [^1]: Formatting for side by side found at [Stack Overflow](https://stackoverflow.com/questions/24319505/how-can-one-display-images-side-by-side-in-a-github-readme-md)
