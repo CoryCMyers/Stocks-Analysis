@@ -77,8 +77,8 @@ This way of writing however instead of refrencing specific cells that have to be
 
 ## <div align = "center">Refactored Code Pro/Con</div>
 
-<Div align = "center">Refactored Code Pro       | 
-:-------------------------:</div>
+<Div align = "center"> " Refactored Code Pro       | 
+:-------------------------: " </div>
 
 - Able to begin from a shared startpoint if working as a group
 - Code that has proven functional can be used as a control when testing functionality
