@@ -61,11 +61,13 @@ The primary change between these two codes, and the difference in their runtimes
 
 ```
 
+The code when written like this for every iteration through the code it needs to check the cell at address Cells(i - 1, columnNumber) value does not equal the ticker currently being checked, if it does it then checks if Cells(i, columnNumber).Vale does equal the ticker, then it assigns the current startingPrice value plus the value of the cell currently targeted whose ticker does equal the ticker value to the variable starting price. It must run this full loop for every iteration.
+
 However, when the code has been refactored to run more effeciently that same code looks like this
 
 ```
 
-
+'Writing the code like this uses variables already being held within the function rather than having to stop and check other multiple cells
 If Cells(iteratorNumber - 1, columnNumber).Value <> tickers(tickerIndex) Then
   tickerStartingPrices(tickerIndex) = Cells(iteratorNumber, columnNumber).Value
 
