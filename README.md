@@ -13,13 +13,13 @@ Repository for the Stocks Analysis Project
 #### <div align = "center">2017</div>
 When looking at the results of the 2017 Data it can be seen that overall for the year the stocks selected to be followed for this exercise had an overall positive trend overall. From the information that you provided for the basic creation of the spreadsheet these stocks would seem to be a solid choice of investment with only one TERP showing a neagative return for the year as we see here. 
 
-[2017 Stocks Analysis Results](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/VBA_Challenge_2017.png) ![2017 Stocks Analysis Results](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/VBA_Challenge_2017.png) 
+![2017 Stocks Analysis Results](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/VBA_Challenge_2017.png) 
 
 #### <div align = "center">2018</div>
 
 However, when further information is provided and the results for the year of 2018 are also added this story changes. 
 
-[2018 Stocks Analysis Results](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/VBA_Challenge_2018.png) ![2018 Stocks Analysis Results](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/VBA_Challenge_2018.png)
+![2018 Stocks Analysis Results](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/VBA_Challenge_2018.png)
 
 When we consult the information from the analysis of the 2018 stock ticker history the situation seems to be entirely different. From all of the stocks that were covered as profitable in the previous year only one of them is still profitable in the most recent data set provided. While this stock did increase exponentially in value over the course of the year, the other stock that remained profitable also took a loss from the previous year while the remained all took a sharp decline.
 
@@ -41,7 +41,7 @@ The runtime for the original and refactored Macros can be found below.[^1]
 
 2018 Original             |  2018 Refactored
 :-------------------------:|:-------------------------:
-![2018 Runtime Original](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/VBA_Challenge_2018.png)  |  ![2018 Runtime Refactored](https://github.com/CoryCMyers/Stocks-Analysis/blob/CoryCMyers-patch-1-workingOnReadme/VBA_Challenge_2018.png)
+![2018 Runtime Original](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/2018Base.PNG)  |  ![2018 Runtime Refactored](https://github.com/CoryCMyers/Stocks-Analysis/blob/CoryCMyers-patch-1-workingOnReadme/VBA_Challenge_2018.png)
 
 #### <div align = "center">Code Comparisons</div>
 
