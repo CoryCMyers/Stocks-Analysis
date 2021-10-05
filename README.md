@@ -52,6 +52,8 @@ Original Code | Refactored Code
 ![Original Code](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/Analysis_Code_Original.PNG)  | ![Refactored Code](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/Analysis_Code_Refactored.PNG)
 
 
+# <div align = "center">Summary</div>
+
 The primary change between these two codes, and the difference in their runtimes can be traced to the change in code from using
 
 ```
@@ -72,8 +74,6 @@ If Cells(iteratorNumber - 1, columnNumber).Value <> tickers(tickerIndex) Then
 
 This way of writing however instead of refrencing specific cells that have to be sequentially checked and then stopping to check the value of another cell it instead uses values already stored in variables from previously in the function. This allows the function to run faster as it reduces the overall number of calculations that need to be run on each iteration.
 
-
-# <div align = "center">Summary</div>
 
 ## <div align = "center">Refactored Code Pro/Con</div>
 
