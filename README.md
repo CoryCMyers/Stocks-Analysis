@@ -52,6 +52,27 @@ Original Code | Refactored Code
 ![Original Code](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/Analysis_Code_Original.PNG)  | ![Refactored Code](https://github.com/CoryCMyers/Stocks-Analysis/blob/main/Analysis_Code_Refactored.PNG)
 
 
+The primary change between these two codes, and the difference in their runtimes can be traced to the change in code from using
+
+```
+'When the code is written like this, then each time this code loop is run it must verify both cells being referenced for each value each loop.
+  If Cells(iteratorNumber - 1, columnNumber).Value <> ticker And Cells(iteratorNumber, columnNumber).Value = ticker Then
+    startingPrice = Cells(iteratorNumber, columnNumber).Value
+```
+
+The code when written like this for every iteration through the code it needs to check the cell at address Cells(i - 1, columnNumber) value does not equal the ticker currently being checked, if it does it then checks if Cells(i, columnNumber).Vale does equal the ticker, then it assigns the current startingPrice value plus the value of the cell currently targeted whose ticker does equal the ticker value to the variable starting price. It must run this full loop for every iteration.
+
+However, when the code has been refactored to run more effeciently that same code looks like this
+
+```
+'Writing the code like this uses variables already being held within the function rather than having to stop and check other multiple cells
+If Cells(iteratorNumber - 1, columnNumber).Value <> tickers(tickerIndex) Then
+  tickerStartingPrices(tickerIndex) = Cells(iteratorNumber, columnNumber).Value
+```
+
+This way of writing however instead of refrencing specific cells that have to be sequentially checked and then stopping to check the value of another cell it instead uses values already stored in variables from previously in the function. This allows the function to run faster as it reduces the overall number of calculations that need to be run on each iteration.
+
+
 # <div align = "center">Summary</div>
 
 ## <div align = "center">Refactored Code Pro/Con</div>
